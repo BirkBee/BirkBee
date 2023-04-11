@@ -19,7 +19,7 @@
 
 ## GitHub Stats:
 
-![Birk's GitHub Stats](https://github-readmestats.vercel.app/apiusername=BirkBee&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![Birk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BirkBee&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![Birk's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=BirkBee&theme=reactk&hide_border=false)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BirkBee.BirkBee)
