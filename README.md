@@ -14,7 +14,7 @@
 - Where to find me:
 
 [![Instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/birkiiy/) 
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.com/users/Birki#9230">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
