@@ -6,4 +6,9 @@
 
 🐠 My training as Web-developer is at neuefische
 
+## Info about Birk Bee 🐝
+
+- 🔭 I’m currently working on my Git, HTML, CSS and JavaScript skills and getting starded with programming
+- 🌱 I’m currently learning a lot of new things in a bootcamp
+- 😄 Pronouns: He/Him
 
