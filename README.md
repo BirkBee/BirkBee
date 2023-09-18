@@ -12,3 +12,4 @@
 - 🌱 I’m currently learning a lot of new things in a bootcamp
 - 😄 Pronouns: He/Him
 
+[![Instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/birkiiy/) 
