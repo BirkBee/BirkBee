@@ -11,5 +11,13 @@
 - 🔭 I’m currently working on my Git, HTML, CSS and JavaScript skills and getting starded with programming
 - 🌱 I’m currently learning a lot of new things in a bootcamp
 - 😄 Pronouns: He/Him
+- Where to find me:
 
 [![Instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/birkiiy/) 
+
+## GitHub Stats:
+
+![Birk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BirkBee&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![Birk's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=BirkBee&theme=reactk&hide_border=false)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BirkBee.BirkBee)
