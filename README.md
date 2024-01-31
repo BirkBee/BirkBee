@@ -1,18 +1,19 @@
 # Welcome to my page everyone! 👋🏻
 
-🌈 My name is Birk, I'm 24 years old and live in Hamburg.
+🌈 My name is Birk, I'm 25 years old and live in Hamburg.
 
-💻 I've just started my journey to become a web-developer but I'm having lots of fun!
+💻 I've just started my journey as a web-developer and I'm having lots of fun!
 
-🐠 My training as Web-developer is at neuefische
+🐠 My kick-off to become a Web-developer was at at neuefische
 
 ## Info about Birk Bee 🐝
 
-- 🔭 I’m currently working on my React skills
-- 🌱 I’m currently learning a lot of new things in a bootcamp
+- 🔭 I’m currently working on my type skript skills
+- 🌱 Just started a new project
 - 😄 Pronouns: He/Him
 - Where to find me:
 
+[![Linkedin](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png)](https://www.linkedin.com/in/birk-beese/) 
 [![Instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/birkiiy/) 
 
 ## GitHub Stats:
